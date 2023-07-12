@@ -1,0 +1,17 @@
+h2 {
+    font-family: "Bahnschrift";
+    color: brown;
+    font-size: xx-large;
+    padding-left: 20px;
+}
+
+p{
+    font-family: "Bahnschrift";
+}
+
+img {
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
